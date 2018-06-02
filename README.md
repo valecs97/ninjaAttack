@@ -14,4 +14,6 @@ Left Right Arrows - Move
 Up arrow - Jump
 L - Fire
 
+Esc - To exit the map (Be careful, you can touch it by accident)
+
 Have fun playing !
